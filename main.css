@@ -1,0 +1,30 @@
+body {
+      background-color: #000;
+      background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
+      font-family: "Courier New", monospace;
+      color: #0000ff;
+      text-align: center;
+    }
+
+h1 {
+  font-size: 48px;
+  color: black;
+  text-shadow: 2px 2px green;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  border: 5px ridge green;
+  padding: 20px;
+  background-color: white;
+}
+
+.container a {
+  text-decoration: none;
+}
+
+marquee {
+  color: green;
+  font-weight: bold;
+}

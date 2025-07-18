@@ -1,0 +1,49 @@
+body {
+      background-color: #000;
+      font-family: "Courier New", monospace;
+      background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
+      color: black;
+      text-align: center;
+    }
+
+h1 {
+  font-size: 40px;
+  color: black;
+  text-shadow: 2px 2px green;
+}
+
+.text {
+  text-align: justify;
+  text-indent: 1.25cm; /* first-line indent */
+  margin-bottom: 1cm;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  border: 5px ridge green;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.container a {
+  text-decoration: none;
+}
+
+marquee {
+  color: green;
+  font-weight: bold;
+}
+
+.button {
+  background-color: green;
+  padding: 5px 15px;
+  border: 2px inset black;
+  font-size: 16px;
+  text-decoration: none;
+  color: black;
+}
+
+.button:hover {
+  background-color: rgb(19, 207, 19);
+}
