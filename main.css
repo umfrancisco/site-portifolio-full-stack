@@ -9,13 +9,13 @@ body {
 h1 {
   font-size: 48px;
   color: black;
-  text-shadow: 2px 2px green;
+  text-shadow: 2px 2px #182c61;
 }
 
 .container {
   width: 800px;
   margin: auto;
-  border: 5px ridge green;
+  border: 5px ridge #182c61;
   padding: 20px;
   background-color: white;
 }
@@ -25,6 +25,6 @@ h1 {
 }
 
 marquee {
-  color: green;
+  color: #182c61;
   font-weight: bold;
 }
