@@ -1,17 +1,15 @@
 body {
-      background-color: #000;
-      background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
-      font-family: "Courier New", monospace;
-      color: #0000ff;
-      text-align: center;
-    }
-
+  background-color: #000;
+  background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
+  font-family: "Courier New", monospace;
+  color: #0000ff;
+  text-align: center;
+}
 h1 {
   font-size: 48px;
   color: black;
   text-shadow: 2px 2px #182c61;
 }
-
 .container {
   width: 800px;
   margin: auto;
@@ -19,11 +17,9 @@ h1 {
   padding: 20px;
   background-color: white;
 }
-
 .container a {
   text-decoration: none;
 }
-
 marquee {
   color: #2a49a0;
   font-weight: bold;
